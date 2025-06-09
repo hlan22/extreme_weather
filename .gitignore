@@ -1,3 +1,8 @@
+# Personal additions
+extra/
+*.ipynb_checkpoints
+.ipynb_checkpoints
+
 # History files
 .Rhistory
 .Rapp.history
