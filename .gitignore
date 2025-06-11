@@ -2,6 +2,7 @@
 extra/
 *.ipynb_checkpoints
 .ipynb_checkpoints
+*_files/
 
 # History files
 .Rhistory
